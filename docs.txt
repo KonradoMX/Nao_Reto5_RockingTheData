@@ -1,1 +1,4 @@
-Este es el contenido del archivo "docs.txt" perteneciente a la rama B.
+
+Este es el contenido del archivo "docs.txt" perteneciente a la rama B. Segundo en ser aceptado.
+
+Este es el contenido del archivo "docs.txt" en la Rama A. Primero en ser aceptado.
