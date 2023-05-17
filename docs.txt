@@ -1,0 +1,1 @@
+Este es el contenido del archivo "docs.txt" perteneciente a la rama B.
