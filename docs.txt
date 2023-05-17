@@ -1,0 +1,1 @@
+Este es el contenido del archivo docs.txt en la Rama A.
